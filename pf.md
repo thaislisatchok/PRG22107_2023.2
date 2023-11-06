@@ -1,4 +1,4 @@
-# PROJETO FINAL - Batalha de Pokemon
+# PROJETO FINAL - Batalha de Pokémon
 
 Uma batalha de Pokémon é um aspecto fundamental dos jogos da série Pokémon e envolve treinadores competindo entre si usando suas equipes de Pokémon. 
 
