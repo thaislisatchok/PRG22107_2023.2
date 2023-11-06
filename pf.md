@@ -4,7 +4,7 @@ Uma batalha de Pokémon é um aspecto fundamental dos jogos da série Pokémon e
 
 ## Regras:
 
-- Equipes de Pokémon: Cada treinador forma uma equipe de até 6 Pokémons. No início da batalha, ambos os treinadores escolhem quantos Pokémons vão usar (normalmente 6, mas pode ser menos em algumas situações).
+- Equipes de Pokémons: Cada treinador forma uma equipe de até 6 Pokémons. No início da batalha, ambos os treinadores escolhem quantos Pokémons vão usar (normalmente 6, mas pode ser menos em algumas situações).
 
 - Ordem de Batalha: Os treinadores escolhem um Pokémon para começar a batalha. A ordem de escolha é importante, pois determina quem ataca primeiro. Geralmente, o Pokémon com maior velocidade ataca primeiro, mas existem movimentos que podem alterar a ordem de ataque.
 
