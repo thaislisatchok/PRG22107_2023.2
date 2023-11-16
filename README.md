@@ -4,8 +4,6 @@ Repositório da disciplina de Programação Orientada à Objetos no semestre de 
 
 Acesso rápido:
 
- - [Aulas](./aulas.md)
- - [Exercícios](./exercicios.md)
  - [Projeto Final](./pf.md)
 
    
