@@ -1,1 +1,1 @@
-Qt é uma biblioteca de programação em C++ cujo principal objetivo é possibilitar o desenvolvimento de aplicações multiplataforma a partir de um mesmo código fonte, no caso, é utilizada para a simulação gráfica da batalha de pokémon.
+QT é uma biblioteca de programação em C++ cujo principal objetivo é possibilitar o desenvolvimento de aplicações multiplataforma a partir de um mesmo código fonte, no caso, é utilizada para a simulação gráfica da batalha de pokémon.
