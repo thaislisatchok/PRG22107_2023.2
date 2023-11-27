@@ -14,10 +14,6 @@ Uma batalha de Pokémon é um aspecto fundamental dos jogos da série Pokémon e
 
 - Mudança de Pokémon: Durante a batalha, os treinadores podem alternar seus Pokémon, substituindo o Pokémon atual por outro na equipe. Isso é chamado de "troca" e pode ser usado estrategicamente para obter vantagem de tipo ou para evitar que um Pokémon seja derrotado.
 
-- Status e Efeitos: Além dos movimentos de ataque, muitos movimentos e habilidades de Pokémon podem causar efeitos de status, como envenenamento, paralisia ou confusão, afetando o desempenho do Pokémon em batalha.
-
 - Vantagens de Tipo: Conhecer as vantagens e desvantagens de tipo é fundamental para construir estratégias eficazes. Por exemplo, um Pokémon do tipo Água terá vantagem sobre um Pokémon do tipo Fogo.
-
-- Efeitos de Campo: Alguns campos de batalha ou habilidades de Pokémon podem alterar as condições da batalha, afetando a velocidade, a cura ou outros aspectos da batalha.
 
 - Vitória: A batalha continua até que um dos treinadores derrote todos os Pokémon do oponente. O treinador que conseguir isso é o vencedor da batalha.
