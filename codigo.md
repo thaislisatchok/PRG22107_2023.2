@@ -1,1 +1,1 @@
-O código de porgramação Orientada à Objeto é implementado em C/C++
+O código de porgramação Orientada à Objetos é implementado em C/C++
