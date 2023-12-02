@@ -5,6 +5,7 @@ Repositório da disciplina de Programação Orientada à Objetos no semestre de 
 Acesso rápido:
 
  - [Introdução/Ideia projeto](./pf.md)
+ - [Diagrama de Sequência](./ds.md)
  - [Código](./codigo.md)
  - [QT CREATOR](./qtcreator.md)
 
