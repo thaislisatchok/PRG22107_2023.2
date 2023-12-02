@@ -6,6 +6,7 @@ Acesso rápido:
 
  - [Introdução/Ideia projeto](./pf.md)
  - [Diagrama de Sequência](./ds.md)
+ - [Diagrama de Caso de Uso](./dcu.md)
  - [Código](./codigo.md)
  - [QT CREATOR](./qtcreator.md)
 
