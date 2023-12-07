@@ -1,1 +1,1 @@
-Na pasta "Código" consta com os códigos de programação Orientada à Objetos implementado em C/C++
+Na pasta "Código" consta os códigos de programação Orientada à Objetos implementado em C/C++
