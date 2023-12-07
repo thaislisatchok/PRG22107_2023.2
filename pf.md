@@ -1,4 +1,12 @@
-# PROJETO FINAL - Batalha de Pokémon
+Acesso rápido:
+
+ - [Diagrama de Sequência](./ds.md)
+ - [Diagrama de Caso de Uso](./dcu.md)
+ - [Diagrama de Classe](./dc.md)
+ - [Código](./codigo.md)
+ - [QT CREATOR](./qtcreator.md)
+   
+## Introdução : PROJETO FINAL - Batalha de Pokémon
 
 Uma batalha de Pokémon é um aspecto fundamental dos jogos da série Pokémon e envolve treinadores competindo entre si usando suas equipes de Pokémon. 
 
