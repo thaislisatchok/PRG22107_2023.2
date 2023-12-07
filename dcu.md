@@ -6,7 +6,7 @@ Acesso rápido:
  - [Código](./codigo.md)
  - [QT CREATOR](./qtcreator.md)
 
-## DIAGRAMA DE CASA DE USO
+## DIAGRAMA DE CASO DE USO
 
 **Clique no link abaixo para visualizar o diagrama de caso de uso do projeto da batalha de pokémon:**
 
