@@ -14,7 +14,5 @@ Acesso rápido:
  - [QT CREATOR](./qtcreator.md)
 
    
-## Referências
 
-MATTOS, G. Pokémon: as 10 batalhas mais incríveis de ASH Ketchum no anime. [S.d.]. Disponívl em: https://www.legiaodosherois.com.br/lista/pokemon-batalhas-mais-incriveis-ash.html#list-item-1. Acesso em: 07 dez. 2023.
  
